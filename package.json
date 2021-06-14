@@ -1,0 +1,9 @@
+{
+    "name": "random-hotkey",
+    "version": "1.0.0",
+    "type": "module",
+    "description": "Binds randomized hotkeys to each element selected by selector and adds a visual indicator to it.",
+    "main": "rHK.js",
+    "author": "Lautaro Capella <laucape@gmail.com>",
+    "license": "MIT"
+}
